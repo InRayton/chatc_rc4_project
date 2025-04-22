@@ -1,0 +1,23 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/untitled/cmake-build-debug",
+	"dir-cur-src" : "D:/untitled",
+	"dir-top-bld" : "D:/untitled/cmake-build-debug",
+	"dir-top-src" : "D:/untitled",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"D:\\untitled\\include",
+		"D:\\wxWidgets-3.2.7\\lib\\gcc_lib\\mswu",
+		"D:\\wxWidgets-3.2.7\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/untitled/cmake-build-debug/CMakeFiles/ChatApp.dir"
+}

@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/ChatApp.dir/src/main.cpp.obj: dyndep
+
+build CMakeFiles/ChatApp.dir/src/RC4.cpp.obj: dyndep
+
+build CMakeFiles/ChatApp.dir/src/Messenger.cpp.obj: dyndep
+
